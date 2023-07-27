@@ -62,7 +62,7 @@
         "cursorNotBlinking": false,
         "cursorWidth": 1,
         "focusMode": false,
-        "font": "Noto Sans,15,-1,5,50,0,0,0,0,0",
+        "font": "Noto Sans,18,-1,5,50,0,0,0,0,0",
         "fontColor": "#eeeeec",
         "indent": false,
         "lineSpacing": 100,
