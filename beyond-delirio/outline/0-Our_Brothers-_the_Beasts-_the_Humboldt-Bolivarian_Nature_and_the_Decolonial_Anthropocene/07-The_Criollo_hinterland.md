@@ -2,26 +2,24 @@ title:          The Criollo hinterland
 ID:             64
 type:           md
 compile:        2
-charCount:      5274
+charCount:      5518
 
 
  <!-- 
  Ideas sueltas para esta sección:
  
- - Las "estepas y desiertos" no son una categoría geográfica
- 	- Identificar constantes y variables en la caracterización
- 	- Con Derrida: son un geotropo de la "mitología blanca", 
- 	- Con Mary Louise Pratt: es parte de lo que anima los "ojos imperiales"
- 	- Recurrir a "la tierra se allana"
- 	- ¿Eduardo Blanco?
-
- 	
- - Justamente, parte de lo que apunta Walls sobre las diferencias entre Asia y 		América deja ver cómo la serie de humboldt homologa espacios planos de muy 	distinta geología e historia:
- 	- Walls: The point for you would be to differentiate the kind of agencies 			involved: in Asia, human/horse partnerships allowed a very different historical 	unfolding across the Asian steppes than in the Llanos, where no such 			partnerships were possible, and indeed, historically, the llanos did not invite 		nor 	accept Indigenous settlement because of the complex ecological 			relationships between all the many South American agencies--rain, drought, 		plant cover, soil, climate, proximity of fertile landscapes, absence of ungulates 		and horses . . . which would have made settlement possible! 
+ - Del mismo modo que Bolívar metaforiza la agencia política por fuera de su comprensión como "torrente" y "turbulencia", las "estepas y desiertos" son un tropo para designar lo ignorado por Europa antes que una categoría geográfica. 
+ 	- Identificar constantes y variables en la caracterización 
+	- Lo que la estabiliza: el límite de la civilización. Para muestra: Tartaria.
+ 	- Es un tropo que define el límite de la civilización. 
+ 	- Su principal función es alisar el espacio estriado. Ese alisamiento es la condición de posibilidad para que regiones tan disímiles entren en la misma categoría geográfica.
 
 - La noción de los llanos venezolanos como "frontera" espeja lo que dice de las estepas de Mongolia y Tartaria:
 	- Febres: He states that the steppes of Mongolia and Tartary have been a geographical barrier between the "people who are still rude" ("des peuples encore grossiers") and the "the race of anciently civilized men" ("la race d'hommes anciennement civilisés") of Hindustan and Tibet.
- 	-  . . The difference, then, of most relevance here would be that in Asia, 			human/animal relationships allow the steppes, the barrier, to become a 			corridor (something that cannot happen without HORSES!); but in Venezuela, 		no horses (no cattle either): so no transportation, no corridors, no species to 		graze on the llanos . . . not until Europe brought horses and cattle (invasive 		species! Not to mention the cowboy culture that came with them . . . .)
+ 	 - Lo que apunta Walls sirve para reafirmar que la serie de humboldt homologa espacios planos de muy 	distinta geología e historia:
+ 	- Walls: The point for you would be to differentiate the kind of agencies 			involved: in Asia, human/horse partnerships allowed a very different historical 	unfolding across the Asian steppes than in the Llanos, where no such 			partnerships were possible, and indeed, historically, the llanos did not invite 		nor 	accept Indigenous settlement because of the complex ecological 			relationships between all the many South American agencies--rain, drought, 		plant cover, soil, climate, proximity of fertile landscapes, absence of ungulates 		and horses . . . which would have made settlement possible! 
+	-  . . The difference, then, of most relevance here would be that in Asia, 			human/animal relationships allow the steppes, the barrier, to become a 			corridor (something that cannot happen without HORSES!); but in Venezuela, 		no horses (no cattle either): so no transportation, no corridors, no species to 		graze on the llanos . . . not until Europe brought horses and cattle (invasive 		species! Not to mention the cowboy culture that came with them . . . .)
+
  
 - En la lectura de Asia hay un (o podría haber, toca doble chequear) etapismo, que va de la gente "todavía grosera" al norte de Tartaria a las antiguas civilizaciones, pasando por el punto intermedio de la vida pastoril. En América Humboldt trata de estabilizar también ese scafolding, asumiendo que es un "desierto". Porque, como señala Walls, hay apego a una historización de acuerdo a los medios de producción y explotación de la naturaleza. Y en esta competencia, los indígenas quedaban atrasados pues no habían domesticado animales domésticos y no conocían el caballo.
 	- Humboldt: "[T]he Llanos are suitable for raising livestock; but the care of 		milk-giving animals was nearly unknown to the original inhabitants of the 		New Continent. Hardly any of the American tribes knew to make use of the 		advantages that Nature had also afforded them in this regard."
