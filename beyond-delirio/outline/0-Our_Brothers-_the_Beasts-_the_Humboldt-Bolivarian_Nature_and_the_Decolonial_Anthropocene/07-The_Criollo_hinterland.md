@@ -2,13 +2,13 @@ title:          The Criollo hinterland
 ID:             64
 type:           md
 compile:        2
-charCount:      4634
+charCount:      4639
 
 
  after stating that the steppes of Mongolia and Tartary have been a geographical barrier between the "people who are still rude" ("des peuples encore grossiers") and the "the race of anciently civilized men" ("la race d'hommes anciennement civilisés") of Hindustan and Tibet, he asserts: 
 
 <!--
-Walls: Note, though, an important difference he’s pointing to: In Asia, these are pastoral peoples. But the Indigenous peoples of the Americas precisely lacked a pastoral culture, since the fauna of the Americas did not include species suitable for pastoral domestication! (“skipping the stage of a herding life,” p. 35.) 
+Walls: Note, though, an important difgit aference he’s pointing to: In Asia, these are pastoral peoples. But the Indigenous peoples of the Americas precisely lacked a pastoral culture, since the fauna of the Americas did not include species suitable for pastoral domestication! (“skipping the stage of a herding life,” p. 35.) 
 
 Febres: interesante regresar a ver esa cita en su contexto. Y aclarar que el sujeto del que está hablando Humboldt aquí --el llanero-- no es indígena ni negro sino criptógamo, y tiene sus rasgos pastorales, pero tiene otros rasgos que no lo son, y que están habitando ya de alguna forma una zona nuclear de la formación de la modernidad --una especie de piratería de tierra, una economía del contrabando y la ilegalidad. Habría que ir a "viaje" a ver qué onda pero pareciera que es así. -->
 
