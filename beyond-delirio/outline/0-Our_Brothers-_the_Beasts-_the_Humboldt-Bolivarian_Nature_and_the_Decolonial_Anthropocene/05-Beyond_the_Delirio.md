@@ -1,4 +1,4 @@
-title:          ​Our brothers, the beasts
+title:          Beyond the Delirio
 ID:             34
 type:           md
 compile:        2
