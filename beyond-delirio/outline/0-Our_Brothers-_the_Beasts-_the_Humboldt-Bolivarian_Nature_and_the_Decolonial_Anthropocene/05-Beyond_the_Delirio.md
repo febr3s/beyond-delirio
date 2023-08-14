@@ -2,8 +2,18 @@ title:          Beyond the Delirio
 ID:             34
 type:           md
 compile:        2
-charCount:      7069
+charCount:      8724
 
+
+<!-- do a transition to manifesto out of this 
+
+<!-- Aquí la naturaleza no es un marco referencial paisajístico, sobresaturado de referencias mitológicas por un escritor amateur.
+To explain, in 1814, the defeat of his army at the hands of the llaneros, Bolivar resorts to an animalization of non-white populations -part of the slave production system of colonialism[3](#ftn9)-- by calling them "beasts." 
+
+
+And to propose another point of Humboldtian influence in Bolivar's notion of nature, I note the echoes in this text of the first chapter of _Tableaux de la nature_, "Considérations sur les steppes et déserts" (1808), where the German characterizes the llanero populations of Asia as natural phenomena. Both Humboldt and Bolívar affirm limits of the human anchored to a pattern of civilization, in which certain forms of political or social organization that do not respond to these parameters are assimilated to the realm of the natural or non-human --as darkness, as animal, as geographical accident or self-generated agency of a certain landscape[4](#ftn10). But this dualistic vision becomes discontinuous and permeable in Bolivar's discourse when he calls the "beasts" "brothers." Similarly, Humboldt introduces in his text notions that put in suspense the ontological security that is sustained in the rigid division between human and nature. This notion of mutual contamination between what is conceived as human and what is conceived as non-human, will be put into work in Bolivar's political project, in an implicity broadening of the concept of humanity, which takes shape, again in Carúpano, with decree for the abolition of slavery in 1816.
+
+-->
 
 In order to understand the density of the text I am going to analyze, it is necessary to give some clues about its writing context, and about the reality it tries to name. Tito Salas, in _Emigración a Oriente_, shows in a nutshell the so-called "Terrible Year" of 1814. The white Creole elite of Caracas, flees to the Eastern part of the country. Children, women, the elderly and white men, some of them barefoot, trudge over rough terrain, led by someone carrying the Venezuelan flag. Some of them are looking back, connoting the horror that haunts them. They are fleeing from a popular rebellion that rose up against the republican project, led by a caudillo of Spanish origin, but starring the vastly majority non-white population of the country <!-- agregar nota apoyado en Castro-Gómez y otros para indicar a qué me refiero con esta categoría -->. José Tomás Boves had organized in the Venezuelan plains an irregular army with the most oppressed and excluded population of Venezuelan society. A population that the pro-independence Creole elite wanted to use rhetorically in a discourse of equality, without granting social rights. And even more: by rolling back concessions that the Spanish empire had begun to make during the Bourbon reforms. A significant part of this rebel army had been enslaved on the plantation and had been freed by the royalist army to be enlisted. But the army of rebels that converged on the Venezuelan plains was less uniform than that of Haiti, where the overwhelming majority came directly from the slave trade. The excluded palette of Boves' llaneros ranged from people coming from the slave trade to absolute outsiders, who were in no way part of Venezuelan legality[7](#ftn13). This may give us an idea of what Bolivar means by "infernal regions" in the _Delirio_.
 

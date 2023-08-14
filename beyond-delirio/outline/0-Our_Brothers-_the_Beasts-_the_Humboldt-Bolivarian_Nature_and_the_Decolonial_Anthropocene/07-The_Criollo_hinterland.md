@@ -2,10 +2,15 @@ title:          The Criollo hinterland
 ID:             64
 type:           md
 compile:        2
-charCount:      4639
+charCount:      4866
 
 
  after stating that the steppes of Mongolia and Tartary have been a geographical barrier between the "people who are still rude" ("des peuples encore grossiers") and the "the race of anciently civilized men" ("la race d'hommes anciennement civilisés") of Hindustan and Tibet, he asserts: 
+
+ <!--
+Lo interesante también sería proponer que Bolívar se agarra de un concepto "humboldtiano" para poner en suspenso la seguridad ontológica que le asigna agencia a unos pueblos, mientras subsume a otros en la "naturaleza"
+ -->
+
 
 <!--
 Walls: Note, though, an important difgit aference he’s pointing to: In Asia, these are pastoral peoples. But the Indigenous peoples of the Americas precisely lacked a pastoral culture, since the fauna of the Americas did not include species suitable for pastoral domestication! (“skipping the stage of a herding life,” p. 35.) 
