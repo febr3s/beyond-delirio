@@ -1,4 +1,4 @@
-title:          ​Humboldt and a Haitian Army cross the Andes
+title:          An over-read nerdy joke?
 ID:             38
 type:           md
 compile:        2
