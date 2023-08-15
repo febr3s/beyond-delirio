@@ -1,7 +1,0 @@
-title:          Our Brothers, the Beasts: the Humboldt-Bolivarian Nature and the Decolonial Anthropocene
-ID:             1
-type:           folder
-compile:        2
-charCount:      54130
-
-

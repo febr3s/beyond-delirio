@@ -1,4 +1,4 @@
-title:          Beyond the Delirio
+title:          A hell beyond the Delirio
 ID:             34
 type:           md
 compile:        2
