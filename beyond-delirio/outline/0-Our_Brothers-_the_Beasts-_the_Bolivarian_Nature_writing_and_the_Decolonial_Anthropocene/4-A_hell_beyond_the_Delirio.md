@@ -2,10 +2,50 @@ title:          A hell beyond the Delirio
 ID:             34
 type:           md
 compile:        2
-charCount:      12800
+charCount:      17376
 
 
 <!-- 
+<Pero no se trata de dejar el Delirio de lado, como ya dije, sino de pensar cómo conversa con un texto destacado por la *arché* propiamente bolivariana, en torno a la pregunta del señorío de la humanidad sobre la naturaleza. En este sentido, es bueno recordar lo que señala Manzoni: >.Como ha señalado Manzoni, el *Delirio* postula una integración poética e imaginaria de distintas regiones que conforman el territorio suramericano [-;;Manzoni pp]. Y en efecto, todo el recorrido que precede al ascenso alucinado al Chimborazo presenta una tensión entre los límites topográficos, y la voluntad del "estandarte" (gran)colombiano para allanarlos. 
+
+Bolívar "venía envuelto en el manto de Iris desde donde paga su tributo el caudaloso Orinoco al Dios de las aguas". Entre la saturación neoclásica se convocan las "bocas" del Dragón y la Serpiente: las amplias desembocaduras donde las aguas del río Orinoco entran en el mar Caribe. Así, la voz traza su trayectoria desde el extremo oriental de la costa Caribe de la gran Colombia, hasta la "región glacial", donde ve las "sienes exelsas del dominador de los Andes": el amplio volcán del Chimborazo, hacia el extremo suroccidental del mapa (gran)colombiano. Es decir, la voz poética integra en su recorrido, bajo el "estandarte" del naciente --y breve-- estado-nación, territorios separados por las densas cordilleras suramericanas. Por eso, entre los argumentos que se da la voz para "trepar sobre los cabellos canosos del gigante de la tierra", se recuerda sus hazañas previas y concluye que "la tierra se ha allanado a los pies de Colombia".
+
+Para llegar a esta conclusión, la voz enumera los obstáculos que ha superado con el "manto de Iris que me ha servido de estandarte". Este "manto" se vuelve el sujeto de la acción, y es él quien "en mis manos", recorre "regiones infernales", surca "los ríos y los mares", y sube "sobre los hombros gigantescos de los andes". En la enumeración, todos los obstáculos son naturales, con excepción del primero. Y en esa irregularidad es donde la naturaleza paisajística y alegórica del *Delirio* empieza conversar con la naturaleza categorial y programática del *Manifiesto*. 
+
+
+
+Esto ocurre justo en la oración donde la voz poética ancla el sentido referencial del "manto de Iris" que lo envolvía en la primera línea.
+
+ una obra tan imposible de ejecutar súbitamente, que está fuera del alcance de todo poder humano
+ 
+ estando la masa de los pueblos descarriada por el fanatismo religioso, y seducida por el incentivo de la anarquía devoradora
+ 
+  ¿Cómo podría preponderar la simple teoría de la filosofía política sin otros apoyos que la verdad y la naturaleza, contra el vicio armado con el desenfreno de la licencia, sin más límites que su alcance y convertido de repente por un prestigio religioso en virtud política y en caridad cristiana?
+  
+  No, no son los hombres vulgares los que pueden calcular el eminente valor del reino de la libertad, para que lo prefieran a la ciega ambición y a la vil codicia
+  
+   no estando en la esfera de las facultades de un general o magistrado contener en un momento de turbulencia, de choque, y de divergencia de opiniones el torrente de las pasiones humanas, que agitadas por el movimiento de las revoluciones se aumentan en razón de la fuerza que las resiste
+   
+    El hombre es el débil juguete de la fortuna, sobre la cual suele calcular con fundamento muchas veces, sin poder contar con ella jamás, porque nuestra esfera no está en contacto con la suya de un orden muy superior a la nuestra
+    
+    La convicción de mi inocencia me la persuade mi corazón, y este testimonio es para mí el más auténtico, bien que parezca un orgulloso delirio
+    
+    hasta volver segundamente a libertaros, por la senda del occidente, regada con tanta sangre y adornada de tantos laureles.
+    
+    No comparéis vuestras fuerzas físicas con las enemigas, porque no es comparable el espíritu con la materia. Vosotros sois hombres, ellos son bestias, vosotros sois libres, ellos esclavos.
+    
+ 
+ Es laudable, es noble y sublime, vindicar la naturaleza ultrajada por la tiranía; nada es comparable a la grandeza de este acto y aun cuando la desolación y la muerte sean el premio de tan glorioso intento, no hay razón para condenarlo, porque no es lo asequible lo que se debe hacer, sino aquello que el derecho nos autoriza
+
+tan horroroso como imposible pintaros. Vuestros hermanos y no los españoles han desgarrado vuestro seno, derramando vuestra sangre, incendiando vuestros hogares, y os han condenado a la expatriació
+
+un proyecto agigantado, superior a todas las fuerzas humanas
+
+
+-->
+
+
+<!--
 
 
 
