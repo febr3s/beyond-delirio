@@ -1,20 +1,11 @@
-title:          A hell beyond the Delirio
-ID:             34
+title:          A hell beyond the Delirio_2
+ID:             90
 type:           md
 compile:        2
-charCount:      17376
-
-
-<!-- 
-<Pero no se trata de dejar el Delirio de lado, como ya dije, sino de pensar cómo conversa con un texto destacado por la *arché* propiamente bolivariana, en torno a la pregunta del señorío de la humanidad sobre la naturaleza. En este sentido, es bueno recordar lo que señala Manzoni: >.Como ha señalado Manzoni, el *Delirio* postula una integración poética e imaginaria de distintas regiones que conforman el territorio suramericano [-;;Manzoni pp]. Y en efecto, todo el recorrido que precede al ascenso alucinado al Chimborazo presenta una tensión entre los límites topográficos, y la voluntad del "estandarte" (gran)colombiano para allanarlos. 
-
-Bolívar "venía envuelto en el manto de Iris desde donde paga su tributo el caudaloso Orinoco al Dios de las aguas". Entre la saturación neoclásica se convocan las "bocas" del Dragón y la Serpiente: las amplias desembocaduras donde las aguas del río Orinoco entran en el mar Caribe. Así, la voz traza su trayectoria desde el extremo oriental de la costa Caribe de la gran Colombia, hasta la "región glacial", donde ve las "sienes exelsas del dominador de los Andes": el amplio volcán del Chimborazo, hacia el extremo suroccidental del mapa (gran)colombiano. Es decir, la voz poética integra en su recorrido, bajo el "estandarte" del naciente --y breve-- estado-nación, territorios separados por las densas cordilleras suramericanas. Por eso, entre los argumentos que se da la voz para "trepar sobre los cabellos canosos del gigante de la tierra", se recuerda sus hazañas previas y concluye que "la tierra se ha allanado a los pies de Colombia".
-
-Para llegar a esta conclusión, la voz enumera los obstáculos que ha superado con el "manto de Iris que me ha servido de estandarte". Este "manto" se vuelve el sujeto de la acción, y es él quien "en mis manos", recorre "regiones infernales", surca "los ríos y los mares", y sube "sobre los hombros gigantescos de los andes". En la enumeración, todos los obstáculos son naturales, con excepción del primero. Y en esa irregularidad es donde la naturaleza paisajística y alegórica del *Delirio* empieza conversar con la naturaleza categorial y programática del *Manifiesto*. 
+charCount:      15074
 
 
 
-Esto ocurre justo en la oración donde la voz poética ancla el sentido referencial del "manto de Iris" que lo envolvía en la primera línea.
 
  una obra tan imposible de ejecutar súbitamente, que está fuera del alcance de todo poder humano
  
