@@ -2,6 +2,10 @@ title:          Our Brothers, the Beasts: the Bolivarian Nature writing and the 
 ID:             1
 type:           folder
 compile:        2
+<<<<<<< Updated upstream
 charCount:      72641
+=======
+charCount:      66374
+>>>>>>> Stashed changes
 
 
