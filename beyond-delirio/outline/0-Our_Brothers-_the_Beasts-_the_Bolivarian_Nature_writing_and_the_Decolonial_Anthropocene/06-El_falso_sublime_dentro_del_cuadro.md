@@ -1,0 +1,15 @@
+title:          El falso sublime dentro del cuadro
+ID:             108
+type:           md
+compile:        2
+charCount:      2868
+
+
+Hasta aquí solo he señalado una correlación entre dos "divisiones" del mundo organizadas por los conceptos de "naturaleza" y de "esclavitud": la división entre la "humanidad" y el resto del planeta, por un lado, y división entre la "humanidad" y el resto de los homo-sapiens, por otro. Esta correlación tiene implicaciones incontables . Algunas han sido exploradas en otrros trabajos[nota: referencia al article sobre plantationcene] y  otras escapan al alcance de este ensayo. Lo que me interesa subrayar aquí es cómo estas dos divisiones se anudan en la "escritura de la naturaleza" bolivariana. Pues, como mostraré, en ella se modifica el límite entre humanidad y naturaleza, en un movimiento discursivo que se intersecta con la modificación del esatuto de la esclavitud. Es en la modificación de ese límite, y no  en la saturación alegórica del *Delirio*, donde puede precisarse una contribución concreta de la primera ola de descolonización a la formación del Antropoceno. Y esto no tiene que ver con que el *Delirio* hable una lengua metafórica y el *Manifiesto* una lengua referencial: tiene que ver con que la poesía amateur y ociosa del primero es un eco más bien diluído del régimen de tropos que opera en la escritura programática y fundacional del segundo [nota: crédito <al pana de NeMLA>]. 
+
+<transición: qué tiene que ver lo sublime, quizá buscar en el index de Chakrabarty y Descola; también revisar el uso que hace de la palabra Bolívar, o quizá asomar lo de la "elevación" de Abreu Mendoza>
+
+Como demuestra Abreu Mendoza, en el *Delirio* se afirma el "lente hegemónico de lo sublime" para enmarcar todo aquello que no es utilizable, medible y agotable en la "naturaleza" [-@abreumendoza pp]. En el poema de Bolívar se evidencia la intención de representar <transición con Kant, que indique los sublime como aquello que se sabe que existe pero no se puede medir ni agotar>. Esta idea se alegoriza de forma más o menos esquemática desde que, al llegar a la cumbre del volcán, la voz del *Delirio* siente "un fuego extraño y superior". Pero la extrañeza en este texto es un breve coqueteo para regresar siempre y rápido a un marco estable que define lo desconocido. En este caso, lo "extraño" del fuego no dura ni una línea pues inmediateamente la voz lo reconoce como "el Dios de Colombia", que la "posee". Durante esta "posesión", la voz del principio y la voz del "Dios de Colombia" se confunden, y tienen un diálogo con una entidad ante la cual las hazañas del héroe-Dios son insignificantes: "[t]odo es menos que <...> el infinito, que es mi hermano". La voz reconoce por un instante que la experiencia lo supera "sobrecogido de un terror <...>". Pero inmediatamente pasa a justificarse, presentando su experiencia visionaria para afirmar que "llego al Eterno con mis manos", que no hay nada que lo asombre o que no pueda medir.
+
+>Yo domino <...> Destino
+
