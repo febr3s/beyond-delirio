@@ -2,8 +2,21 @@ title:          ​A new scope for humanity
 ID:             40
 type:           md
 compile:        2
-charCount:      3670
+charCount:      4394
 
+
+The term, “collectively generated” in a Symposium in 2014, acknowledges “the devastating
+transformation of diverse kinds of human-tended farms, pastures, and forests into extractive and enclosed
+plantations, relying on slave labor and other forms of exploited, alienated, and usually spatially
+transported labor” (Haraway 162 []n5). And it incorporates into the Anthropocene discussion –although
+footnoted and vaguely attributed to “scholars”– a causal relation between the plantation system and the
+
+industrial revolution. (Haraway?) aknowledges that the plantation system was the “motor for the carbon-
+greedy machine-based factory system”, which was the main thesis of Eric Williams in his 1944 classic
+
+Capitalism and slavery.
+
+***
 
 La rebelión popular de 1814 redefinió claramente como un problema político el límite que establecía la dicotomía entre llaneros/naturaleza y urbes/humanidad. Fue, además, un problema que contribuyó a redefinir la geopolítica bolivariana, y que desató la serie de acontecimientos que el Reader condensa en una imagen apócrifa pero ilustrativa: "[t]ras casi una década de conflicto, cruzó los Andes con un ejército haitiano y tomó el control de Colombia en 1819" (French y Heffes 76). Los datos apócrifos producen en una metonimia lo que Zizek llama una historización superrápida: en 1816, tras regresar a Venezuela con un ejército de haitianos para decretar la abolición de la esclavitud, Bolívar inició una serie de operaciones, discursos, pactos, ejecuciones y hazañas, que le llevaron a cruzar los Andes con algunos de los mismos hombres a los que había llamado bestias en 1814 --y quizá, entre ellos, algún puñado de haitianos. 
 
