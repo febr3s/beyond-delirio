@@ -2,20 +2,22 @@ title:          ​A new scope for humanity
 ID:             40
 type:           md
 compile:        2
-charCount:      3571
+charCount:      3687
 
 
-<!-- La rebelión popular de 1814 redefinió claramente como un problema político el límite que establecía la dicotomía entre llaneros/naturaleza y urbes/humanidad. Fue, además, un problema que contribuyó a redefinir la geopolítica bolivariana, y que desató la serie de acontecimientos que el Reader condensa en una imagen apócrifa pero ilustrativa-->: "After nearly a decade of conflict, he crossed th Andes with a Haitian army and took control of Colombia in 1819" (French and Heffes 76). The apocryphal data produces in a metonymy what Zizek calls a super-rapid historicization: In 1816, after returning to Venezuela with an army of Haitians to decree the abolition of slavery, Bolívar began a series of operations, speeches, pacts, executions and exploits, which led him to cross the platforms with some of the same men he had called beasts in 1814 – and who, like the Haitians, had been slaves, if not outlaws, before becoming republican soldiers. 
+<!-- La rebelión popular de 1814 redefinió claramente como un problema político el límite que establecía la dicotomía entre llaneros/naturaleza y urbes/humanidad. Fue, además, un problema que contribuyó a redefinir la geopolítica bolivariana, y que desató la serie de acontecimientos que el Reader condensa en una imagen apócrifa pero ilustrativa-->: "[t]ras casi una década de conflicto, cruzó los Andes con un ejército haitiano y tomó el control de Colombia en 1819" (French y Heffes 76). Los datos apócrifos producen en una metonimia lo que Zizek llama una historización superrápida: en 1816, tras regresar a Venezuela con un ejército de haitianos para decretar la abolición de la esclavitud, Bolívar inició una serie de operaciones, discursos, pactos, ejecuciones y hazañas, que le llevaron a cruzar los Andes con algunos de los mismos hombres a los que había llamado bestias en 1814 --y quizá, entre ellos, algún puñado de haitianos. 
 
-***
-
-<la alianza de los criollos con los negros caribeños>redefine in practical terms the limits that since the 17th century excluded huge masses of humans from the "assumption that the role of the state is to provide security of life and property" and "making greater numbers of people live safer" (Dipesh Chakrabarty 205)
-
-the messianic and promethean high-flownness of Bolivar's private poetic text of 1822 expresses a radicalized dimension of the global, that manifests itself in the first wave of decolonization, and that unlike the European global that serves as a paradigm for Chakrabarty is not restricted to a limited number of members of the species.
+Hombres que habían sido esclavos, cuando no forajidos, antes de convertirse en soldados republicanos.
 
 ***
 
-Fernando Coronil describes: "The narrative of Bolívar's triumph depicts the patrician hero as having redirected the rebel masses' anarchic energies toward the construction of a liberal national order" (178). This messianic horizon is the one that Tito Salas condenses in _Apoteosis del Libertador_ and that Mendoza characterizes as "a virulent and delirious prophet, a patriarchal messiah," who has defined the reading of the poem as a revelation of the messianic aura of the Liberator (292, 303). But this cultural fiction -which as we have already exposed is in every sense post- or anti-Bolivarian- says  little about the way in which the Bolivarian project impacted the concept of nature from the learnings of Humboldtian writing or its more immediate consequences.
+<la alianza de los criollos con los negros caribeños>redefinir en términos prácticos los límites que desde el siglo XVII excluían a enormes masas humanas del "supuesto de que el papel del Estado es proporcionar seguridad a la vida y a la propiedad" y "hacer que un mayor número de personas vivan más seguras" (Dipesh Chakrabarty 205)
+
+la alta fluidez mesiánica y prometeica del texto poético privado de Bolívar de 1822 expresa una dimensión radicalizada de lo global, que se manifiesta en la primera ola de descolonización, y que a diferencia de lo global europeo que sirve de paradigma a Chakrabarty no se restringe a un número limitado de miembros de la especie.
+
+***
+
+Fernando Coronil describe: "La narrativa del triunfo de Bolívar presenta al héroe patricio como quien ha redirigido las energías anárquicas de las masas rebeldes hacia la construcción de un orden nacional liberal" (178). Este horizonte mesiánico es el que condensa Tito Salas en _Apoteosis del Libertador_ y que Mendoza caracteriza como "un profeta virulento y delirante, un mesías patriarcal", quien ha definido la lectura del poema como una revelación del aura mesiánica del Libertador (292, 303). Pero esta ficción cultural -que como ya hemos expuesto es en todo sentido post- o anti-bolivariana- dice poco sobre la manera en que el proyecto bolivariano impactó el concepto de naturaleza a partir de los aprendizajes de la escritura humboldtiana o de sus consecuencias más inmediatas.
 
 ***
 
