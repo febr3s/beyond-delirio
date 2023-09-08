@@ -2,13 +2,13 @@ title:          Geography against history
 ID:             117
 type:           md
 compile:        2
-charCount:      4161
+charCount:      4154
 
 
 <transición con "cultural enframing", introducir "Consideraciones">
 
 
-En este punto vuelven a ser cruciales las "huellas de Humboldt". Pero no del Humboldt explorador que inició la expedición del Chimborazo, sino del Humboldt escritor, que <!--en 1808--> concibió a la gente de los "llanos" del mundo como accidentes de la naturaleza.
+En este punto vuelven a ser cruciales las "huellas de Humboldt". Pero no del Humboldt explorador que inició la expedición del Chimborazo, sino del Humboldt escritor, que en 1808 concibió a la gente de los "llanos" del mundo como accidentes de la naturaleza.
 
 Las fronteras trazadas por Humboldt en "Consideraciones" entre el ámbito de lo humano y lo no humano son más sutiles que las dicotomías de Bolívar en 1814. Sin embargo, su tipificación de los llanos en el primer capítulo de este ensayo -centrada en Venezuela pero alimentada por equivalencias y soluciones de continuidad con otras "estepas y desiertos del mundo"- tiene eco en el manifiesto de Bolívar. Esto es especialmente evidente en una observación que prefigura el papel simbólico que la vasta región llanera de Venezuela desempeñó en el _Manifiesto_: Humboldt define las "estepas" venezolanas como "espantosa soledad (...) [con S]elvas de impenetrable profundidad" (35).  Y atribuye a esta "profundidad impenerable" la agencia apara formar una frontera exterior, al sur de --> "ciudades industriosas, pueblos risueños y campos cuidadosamente cultivados" (35). 
 
