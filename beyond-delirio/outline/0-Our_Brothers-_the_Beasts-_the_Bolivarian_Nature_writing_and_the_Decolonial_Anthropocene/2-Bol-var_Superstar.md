@@ -2,10 +2,10 @@ title:          Bolívar Superstar
 ID:             32
 type:           md
 compile:        2
-charCount:      5738
+charCount:      5725
 
 
-Como resume sucintamente Fernando Coronil: 
+Como resume Fernando Coronil: 
 
 > Bolívar incorporó a la causa revolucionaria a los revoltosos llaneros, campesinos mestizos que inicialmente apoyaron a la corona española durante la Guerra de Independencia (1811-21). Al principio [*in the outset*], los llaneros y los esclavos rebeldes realizaron ataques devastadores contra las familias y haciendas de la oligarquía terrateniente, convirtiendo el conflicto en una guerra civil de dimensiones raciales" (178). 
 
