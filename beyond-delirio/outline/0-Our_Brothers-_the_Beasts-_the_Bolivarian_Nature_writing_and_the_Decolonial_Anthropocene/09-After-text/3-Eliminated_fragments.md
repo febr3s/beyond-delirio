@@ -2,8 +2,16 @@ title:          Eliminated fragments
 ID:             91
 type:           md
 compile:        2
-charCount:      9199
+charCount:      9985
 
+
+ Todo lo contrario: "naturaleza" es, para el _Manifiesto_, el nombre de un régimen metafísico que define y estabiliza el adentro y el afuera de la historia, la sociedad y la civilidad reconocidas como humanas [nota: Williams y Chakrabarty]
+
+***
+
+Una parte importante de este ejército rebelde había sido esclavizada en la plantación y había sido liberada por el ejército realista para ser alistada. Pero el ejército de rebeldes que convergió en los llanos venezolanos era menos uniforme que el de Haití, donde la inmensa mayoría procedía directamente del comercio de esclavos. La paleta de excluidos de los llaneros de Boves abarcaba desde personas procedentes del tráfico de esclavos hasta outsiders absolutos, que no formaban parte en modo alguno de la legalidad venezolana[7](#ftn13). 
+
+***
 
 No se trata de dejar el ejercicio literario ocioso de lado, sino de pensar cómo puede conversar con un texto destacado por la *arché* propiamente bolivariana. Específicamente, en torno a la pregunta del señorío de la humanidad sobre la naturaleza. En este sentido, es bueno recordar lo que señala Manzoni: 
 
