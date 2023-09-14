@@ -2,7 +2,7 @@ title:          Bolívar Superstar
 ID:             32
 type:           md
 compile:        2
-charCount:      3812
+charCount:      5738
 
 
 Como resume sucintamente Fernando Coronil: 
@@ -15,6 +15,6 @@ En cambio, el poema de Bolívar se escribe --y también se lee-- en una escala d
 
 Un análisis desprejuiciado del poema obligaría a reconocer, como hace Muñoz Jiménez lo confuso de la alegoría. También es justo reconocer que este es "el texto más estrafalario que haya compuesto Bolívar" (-;;MunozJimenez 12, 171). Un texto que contrasta con una obra sólida en el ámbito de la correspondencia personal, la proclama y el ensayo político. Sin ir muy lejos, en una carta a José Joaquín Olmedo <!-- de qué año-->, Bolívar critica su "Canto a Junín" bajo premisas que bastarían para destruir también al *Delirio*: "[t]ú (...) nos elevas con tu deidad mentirosa, como el águila de Júpiter elevó a los cielos la tortuga para dejarla caer sobre una roca que le rompiera sus miembros rastreros: tú, pues, nos has sublimado tanto que nos has precipitado en el abismo de la nada"  [;;BolivarOlmedo pp]. La saturación mitológica y el vaciamiento de sentido de la sublimación que Bolívar reclama en Olmedo cubren el *Delirio* en toda su extensión. 
 
-Pero Abreu Mendoza encuentra en el *Delirio* una prueba de <!--que la experiencia de la naturaleza [...]conocimiento-->
+Pero Abreu Mendoza encuentra en el *Delirio* una prueba de que la experiencia de la naturaleza americana en Humboldt y Bolívar "concluye invariablemente en la poetización de lo sublime natural a través de la escritura." (295). Para Abreu Mendoza, la analogía que hace Humboldt del Chimborazo con la cúpula de Miguel Ángel establece la necesidad de un sustituto estético compensatorio cuando el valor práctico y el valor científico son insuficientes --como es el caso de la escalada del volcán gigante. La función de la especulación poética sería entonces apropiarse de aquellas zonas de la naturaleza cuyo valor inmediato "dentro de los parámetros del progreso, la ilustración y la secularización" no está definido.  La sublimación privada no sería un juego ocioso sino un dispositivo para incorporar lo improductivo a "los escritos interconectados de viajeros, científicos y poetas --tanto nacionales como extranjeros-- [que] han utilizado estos asombrosos paisajes como campo de batalla para las agendas científicas, políticas y estéticas que se desarrollaron a lo largo del siglo" [;;AbreuMendoza pp]. 
 
-
+El análisis que propone Abreu Mendoza precisa los rasgos en común entre la escritura de la naturaleza en Bolívar y la que fue hegemónica en el proceso de formación de los estados-nación. A partir del _Delirio_ --y de otro texto verificadamente apócrifo, el _Juramento de Roma_[;;RotkerApocrifo pp] --,  explicita, al igual que el _LAER_, la relación entre la escritura de la naturaleza de Bolívar y la de figuras como Andrés Bello y Domingo Faustino Sarmiento. Su precisión consiste en agruparlos como autores que "perpetuaron lo sublime como la lente hegemónica a través de la cual observar y escribir sobre la naturaleza latinoamericana" [-;;AbreuMendoza pp]. Así, la escritura de Bolívar sobre el Chimborazo, y su intertexto con Humboldt sería asimilable y homologable a una gran tradición latinoamericana que emplea lo sublime como "lente hegemónico" para estetizar la naturaleza cuando no la puede asimilar como recurso o conocimiento.

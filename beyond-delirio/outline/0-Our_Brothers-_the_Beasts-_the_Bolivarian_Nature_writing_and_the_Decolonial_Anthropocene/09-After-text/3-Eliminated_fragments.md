@@ -2,8 +2,12 @@ title:          Eliminated fragments
 ID:             91
 type:           md
 compile:        2
-charCount:      7306
+charCount:      8463
 
+
+La lectura de Abreu Mendoza se afirma --como la tradición dominante a la que ya me he referido-- en la *arché* post-bolivariana, que es donde el juego privado y ocasional del *Delirio* se puede insertar en una red programática, donde los discursos apuntan a incidir sobre la percepción general. Esto no es un problema para el punto principal de Abreu Mendoza, que es mostrar cómo el *Delirio* se emplea para hacer una lectura providencial y mesiánica del corpus bolivariano [;;AbreuMendoza pp<citar por página:  "subsequent readings of Bolivar’s corpus, specifically on those who took on the role of disseminating the gospel ofhis deeds">]. Pero para llegar a ese punto --que por otra parte, no parece discutible--, reafirma la sobre-lectura del texto lúdico e íntimo de Bolívar, y deja de lado otras zonas del archivo que sí fueron destacadas por el autor como parte sustancial de sus contribuciones. En stas zona se encuentra el *Manifiesto*, donde --como mostraré más adelante-- se puede encontrar una relación con la dimensión incognosible e inapropiable de la naturaleza mucho más original, lograda y relevante que la que se ensaya en el *Delirio*. 
+
+***
 
 Un motivo de peso es la referencia a Alejandro de Humboldt, cuyas "huellas" la voz poética manifiesta que "busco" en el primer párrafo, y en el tercero asegurá que las "dejo atrás". Alude a la expedición que el explorador prusiano hizo al volcán ecuatoriano en la primera década del siglo XIX, sin llegar hasta la cima que la voz poética del *Delirio* dice alcanzar. Antes de emprender el camino se pregunta si podrá llegar hasta donde no llegó el prusiano, y se responde exclamando: "¡Sí puedo!", justo antes de tener las primeras alucinaciones. 
 
