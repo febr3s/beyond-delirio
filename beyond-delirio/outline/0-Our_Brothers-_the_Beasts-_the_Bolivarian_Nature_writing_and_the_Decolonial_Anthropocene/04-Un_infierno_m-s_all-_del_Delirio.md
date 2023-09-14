@@ -2,10 +2,14 @@ title:          Un infierno más allá del Delirio
 ID:             34
 type:           md
 compile:        2
-charCount:      6260
+charCount:      5519
 
 
-El desplazamiento que propongo del *Delirio* al *Manifiesto* para caracterizar la escritura de la naturaleza de Bolívar no tiene que ver con que uno hable una lengua metafórica y otro una lengua referencial: tiene que ver con que la poesía amateur y ociosa del *Delirio* es un eco más bien diluído de la experiencia de lo sublime que opera en la escritura programática y fundacional del *Manifiesto*[nota: crédito <al pana de NeMLA>]. No se trata de dejar el ejercicio literario ocioso de lado, sino de pensar cómo puede conversar con un texto destacado por la *arché* propiamente bolivariana. Específicamente, en torno a la pregunta del señorío de la humanidad sobre la naturaleza. En este sentido, es bueno recordar lo que señala Manzoni:  el *Delirio* postula una integración poética e imaginaria de distintas regiones que conforman el territorio suramericano [-;;Manzoni pp]. Y en efecto, todo el recorrido que precede al ascenso alucinado al Chimborazo presenta una tensión entre el espacio estriado de la topografía, y la voluntad del "estandarte" grancolombiano para alisarlo. 
+
+
+
+
+ el *Delirio* postula una integración poética e imaginaria de distintas regiones que conforman el territorio suramericano [-;;Manzoni pp]. Y en efecto, todo el recorrido que precede al ascenso alucinado al Chimborazo presenta una tensión entre el espacio estriado de la topografía, y la voluntad del "estandarte" grancolombiano para alisarlo. 
 
 Bolívar "venía envuelto en el manto de Iris desde donde paga su tributo el caudaloso Orinoco al Dios de las aguas". Entre la saturación neoclásica se convocan las "bocas" del Dragón y la Serpiente: las amplias desembocaduras donde las aguas del río Orinoco entran en el mar Caribe. Así, la voz traza su trayectoria desde el extremo oriental de la costa Caribe de la gran Colombia, hasta la "región glacial", donde ve las "sienes exelsas del dominador de los Andes": el amplio volcán del Chimborazo, hacia el extremo suroccidental del mapa (gran)colombiano. Es decir, la voz poética integra en su recorrido, bajo el "estandarte" del naciente --y breve-- estado-nación, territorios separados por las densas cordilleras suramericanas. Por eso, entre los argumentos que se da la voz para "trepar sobre los cabellos canosos del gigante de la tierra", se recuerda sus hazañas previas y concluye que "la tierra se ha allanado a los pies de Colombia". Para llegar a esta conclusión, enumera los obstáculos que ha superado con el "manto de Iris que me ha servido de estandarte". Este "manto" se vuelve el sujeto de la acción, y es él quien "en mis manos", recorre "regiones infernales", surca "los ríos y los mares", y sube "sobre los hombros gigantescos de los andes" [;;BolivarDelirio pp]. 
 

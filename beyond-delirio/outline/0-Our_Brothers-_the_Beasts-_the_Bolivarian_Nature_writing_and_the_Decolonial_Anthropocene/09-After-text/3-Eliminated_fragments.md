@@ -2,8 +2,16 @@ title:          Eliminated fragments
 ID:             91
 type:           md
 compile:        2
-charCount:      8463
+charCount:      9199
 
+
+No se trata de dejar el ejercicio literario ocioso de lado, sino de pensar cómo puede conversar con un texto destacado por la *arché* propiamente bolivariana. Específicamente, en torno a la pregunta del señorío de la humanidad sobre la naturaleza. En este sentido, es bueno recordar lo que señala Manzoni: 
+
+***
+
+la "posesión" del Dios de Colombia y las pretensiones de alcance de la eternidad y sujeción total de la materia --e incluso del "Destino"-- al ego humano. Estos acontecimientos e ideas pertenecerían todos a un ámbito de la experiencia intransferible al universo de los hechos y la razón, y por lo tanto el poema aún podría leerse como una alegoría --si bien confusa-- del contacto fugaz e inaprensible con la trascendencia. 
+
+***
 
 La lectura de Abreu Mendoza se afirma --como la tradición dominante a la que ya me he referido-- en la *arché* post-bolivariana, que es donde el juego privado y ocasional del *Delirio* se puede insertar en una red programática, donde los discursos apuntan a incidir sobre la percepción general. Esto no es un problema para el punto principal de Abreu Mendoza, que es mostrar cómo el *Delirio* se emplea para hacer una lectura providencial y mesiánica del corpus bolivariano [;;AbreuMendoza pp<citar por página:  "subsequent readings of Bolivar’s corpus, specifically on those who took on the role of disseminating the gospel ofhis deeds">]. Pero para llegar a ese punto --que por otra parte, no parece discutible--, reafirma la sobre-lectura del texto lúdico e íntimo de Bolívar, y deja de lado otras zonas del archivo que sí fueron destacadas por el autor como parte sustancial de sus contribuciones. En stas zona se encuentra el *Manifiesto*, donde --como mostraré más adelante-- se puede encontrar una relación con la dimensión incognosible e inapropiable de la naturaleza mucho más original, lograda y relevante que la que se ensaya en el *Delirio*. 
 
