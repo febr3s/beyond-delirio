@@ -2,8 +2,14 @@ title:          Eliminated fragments
 ID:             91
 type:           md
 compile:        2
-charCount:      9985
+charCount:      11193
 
+
+Clasificar las acciones de todos los habitantes de una tipología topográfica como accidentes del clima y la geografía supone una simplificación --o como diría Humboldt, una "superficialidad de los enciclopedistas" [citado por ;;Tresch 62]-- que contrasta con la capacidad alcanzadas por las tecnologías y técnicas de observación y registro para ofrecer detalles y precisiones. La "Tartaria" a la que se refiere Humboldt en "Consideraciones" --que engloba a las naciones de las llanuras que enumera-- ofrece quizá la casuística más emblemática en ese sentido: ubicada entre China y Rusia por los mapas más avanzados, referenciaba con certidumbre científica una civilización que pertenece enteramente --salvo por teorías conspiranoicas-- al ámbito de la especulación y la fantasía <!--referencia-->. Hay entonces una proporción entre la capacidad de hacer mediciones y descripciones precisas de una parte del mundo --la que constituye el "globo"-- y la autoridad para afirmar como verdades lo que son especulaciones y fantasías sobre el resto: el excedente incontable e incognoscible que Humboldt nombra como entidad toponímica, y que Bolívar reduce a "torrente", "turbulencia" y "bestias".
+
+[imagen Tartaria]
+
+***
 
  Todo lo contrario: "naturaleza" es, para el _Manifiesto_, el nombre de un régimen metafísico que define y estabiliza el adentro y el afuera de la historia, la sociedad y la civilidad reconocidas como humanas [nota: Williams y Chakrabarty]
 
