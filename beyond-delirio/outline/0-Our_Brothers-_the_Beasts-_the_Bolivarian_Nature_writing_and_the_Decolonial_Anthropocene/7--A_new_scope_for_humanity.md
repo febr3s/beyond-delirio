@@ -2,7 +2,7 @@ title:          ​A new scope for humanity
 ID:             40
 type:           md
 compile:        2
-charCount:      5326
+charCount:      5602
 
 
 En principio, la frontera natural exterior en el *Manifiesto* y en "Consideraciones" no representa una apertura hacia la experiencia de desborde de lo sublime, sino su contención: afirmar como categorías esenciales --humanidad/naturaleza-- las diferencias sociohistóricas entre pueblos refuerza la noción de inconmensurablilidad que quiere imponer el *Manifiesto* con la serie de dicotomías. Pero hay dos momentos donde esa apertura se produce, en una dirección que coincide con la que trazan las "Consideraciones". Bolívar escribe: "Así, parece que el cielo para nuestra humillación y nuestra gloria ha permitido que nuestros vencedores sean nuestros hermanos y que nuestros hermanos únicamente triunfen de nosotros". Y más adelante reclama:
@@ -17,3 +17,15 @@ A través de la apertura en el *Manifiesto*  puede rastrearse también la redefi
 
 <!-- redondear con terminología del principio -->
 Este "ascenso" redefine en términos prácticos los límites que desde el siglo XVII excluían a enormes masas humanas del "globo": aquella zona de la experiencia humana dondese da por sentado el "supuesto de que el papel del Estado es proporcionar seguridad a la vida y a la propiedad" y "hacer que un mayor número de personas vivan más seguras" (Chakrabarty 205). estaban hace años o décadas fuera del "antropos" que se atribuye el derecho "natural" de explotar ilimitadamente todas las existencias que no sean humanas. Ahora, del lado de adentro, los soldados de la libertad marchan hacia el futuro, donde la línea de la esclavitud no desaparece sino que se establece por encima de todo lo que sigue limitando con lo humano. 
+
+***
+
+ "un terreno de poder utilizado para justificar y ampliar metafóricamente las reivindicaciones de legitimidad política de las élites locales y regionales". 
+ 
+ Coronil:
+ 
+  revoltosos llaneros, campesinos mestizos
+  
+  ataques devastadores
+  
+  guerra civil de dimensiones raciales
